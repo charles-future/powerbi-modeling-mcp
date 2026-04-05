@@ -66,4 +66,3 @@ This will reset the session and prompt you to authenticate again on the next con
 **Question:** I’m unable to install the new version of the MCP server in Visual Studio Code. The installation hangs and never completes.
 
 **Answer:** [Restart the MCP Server](#restart-mcp-server) and try again. If that doesn’t resolve the issue, restart Visual Studio Code.
-
